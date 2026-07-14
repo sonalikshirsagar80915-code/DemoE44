@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-09T19:54:49 IST" name="Suite" finished-at="2026-07-09T19:54:49 IST" duration-ms="94">
+  <suite started-at="2026-07-14T19:34:35 IST" name="Suite" finished-at="2026-07-14T19:34:35 IST" duration-ms="156">
     <groups>
-      <group name="regression">
-        <method signature="DemoTest1$DemoTest.movieTest()[pri:0, instance:Demo.DemoTest1$DemoTest@443118b0]" name="movieTest" class="Demo.DemoTest1$DemoTest"/>
-      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="DemoTest.movieTest()[pri:0, instance:Demo.DemoTest@65fb9ffc]" name="movieTest" class="Demo.DemoTest"/>
+      </group> <!-- smoke -->
     </groups>
-    <test started-at="2026-07-09T19:54:49 IST" name="Test" finished-at="2026-07-09T19:54:49 IST" duration-ms="94">
-      <class name="Demo.DemoTest1$DemoTest">
-        <test-method signature="movieTest()[pri:0, instance:Demo.DemoTest1$DemoTest@443118b0]" started-at="2026-07-09T19:54:49 IST" name="movieTest" finished-at="2026-07-09T19:54:49 IST" duration-ms="19" status="PASS">
+    <test started-at="2026-07-14T19:34:35 IST" name="Test" finished-at="2026-07-14T19:34:35 IST" duration-ms="156">
+      <class name="Demo.DemoTest">
+        <test-method signature="movieTest()[pri:0, instance:Demo.DemoTest@65fb9ffc]" started-at="2026-07-14T19:34:35 IST" name="movieTest" finished-at="2026-07-14T19:34:35 IST" duration-ms="33" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- movieTest -->
-      </class> <!-- Demo.DemoTest1$DemoTest -->
+      </class> <!-- Demo.DemoTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
